@@ -241,4 +241,4 @@ client.on('guildMemberAdd', async member => {
   }
 });
 
-client.login(token);
+client.login(ODA3MjkyMDA3NjMwMTEwODAz.YB13RQ.BIv1QooL2LHYqHltvLBIrAxVopE);
